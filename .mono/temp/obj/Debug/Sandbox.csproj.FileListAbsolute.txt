@@ -1,0 +1,8 @@
+D:\Games\Godot\Sandbox\.mono\temp\bin\Debug\Sandbox.dll
+D:\Games\Godot\Sandbox\.mono\temp\bin\Debug\Sandbox.pdb
+D:\Games\Godot\Sandbox\.mono\temp\obj\Debug\Sandbox.csprojAssemblyReference.cache
+D:\Games\Godot\Sandbox\.mono\temp\obj\Debug\Sandbox.AssemblyInfoInputs.cache
+D:\Games\Godot\Sandbox\.mono\temp\obj\Debug\Sandbox.AssemblyInfo.cs
+D:\Games\Godot\Sandbox\.mono\temp\obj\Debug\Sandbox.csproj.CoreCompileInputs.cache
+D:\Games\Godot\Sandbox\.mono\temp\obj\Debug\Sandbox.dll
+D:\Games\Godot\Sandbox\.mono\temp\obj\Debug\Sandbox.pdb
